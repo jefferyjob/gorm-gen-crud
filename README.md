@@ -1,1 +1,1 @@
-# gorm-curd
+# gorm-gen-curd
